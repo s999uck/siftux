@@ -32,7 +32,7 @@ const steps = [
     title: "Automate",
     subtitle: "& monitor",
     description: "Deploy AI-powered query responses across channels. Track analytics in the unified dashboard with ROI metrics and usage insights.",
-    code: `conxa.dashboard({
+    code: `SIFTUX.dashboard({
   knowledgeBases: [kb],
   metrics: ['queries', 'accuracy', 'roi'],
   alerts: true

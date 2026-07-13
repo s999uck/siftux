@@ -57,7 +57,7 @@ export function CtaSection() {
                 </h2>
 
                 <p className="text-xl text-muted-foreground mb-12 leading-relaxed max-w-xl">
-                  Join enterprises powering intelligent Q&A across all channels with CONXA. 
+                  Join enterprises powering intelligent Q&A across all channels with SIFTUX. 
                   Build your first bot in minutes.
                 </p>
 

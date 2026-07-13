@@ -47,7 +47,7 @@ export function Navigation() {
           {/* Logo */}
           <a href="#" className="flex items-center gap-2 group">
             <span className={`font-display tracking-tight transition-all duration-500 inline-flex items-center gap-0.5 ${isScrolled ? "text-xl text-foreground" : "text-2xl text-white"}`}>
-              <span className="text-xl font-display text-white">CONXA</span>
+              <span className="text-xl font-display text-white">SIFTUX</span>
               <span className="text-xs text-white/64 -mt-1.5">©</span>
             </span>
           </a>

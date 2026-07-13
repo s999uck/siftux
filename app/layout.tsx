@@ -22,11 +22,11 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title:
-    "CONXA | AI Customer Support Platform for Enterprise",
+    "SIFTUX | AI Customer Support Platform for Enterprise",
   description:
-    "Transform your business knowledge into an intelligent AI assistant. Connect documents, automate customer support, and deliver accurate answers across WhatsApp, Slack, Microsoft Teams, web chat, and enterprise channels with Conxa.",
+    "Transform your business knowledge into an intelligent AI assistant. Connect documents, automate customer support, and deliver accurate answers across WhatsApp, Slack, Microsoft Teams, web chat, and enterprise channels with SIFTUX.",
   keywords: [
-    "CONXA",
+    "SIFTUX",
     "AI Customer Support",
     "Omnichannel AI",
     "Enterprise AI",

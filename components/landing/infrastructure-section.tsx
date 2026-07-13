@@ -72,7 +72,7 @@ export function InfrastructureSection() {
               <p className={`mt-8 text-xl text-muted-foreground leading-relaxed max-w-lg transition-all duration-1000 delay-100 ${
                 isVisible ? "opacity-100" : "opacity-0"
               }`}>
-                CONXA unifies your documents, internal knowledge, and customer
+                SIFTUX unifies your documents, internal knowledge, and customer
                 conversations into one AI platform. Deliver accurate,
                 source-backed answers across every communication channel.
               </p>

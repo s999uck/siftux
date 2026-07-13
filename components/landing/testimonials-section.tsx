@@ -5,7 +5,7 @@ import { ArrowLeft, ArrowRight } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "Conxa reduced our onboarding time by 60%. New team members instantly access all company knowledge across every channel.",
+    quote: "SIFTUX reduced our onboarding time by 60%. New team members instantly access all company knowledge across every channel.",
     author: "Sarah Chen",
     role: "Knowledge Manager",
     company: "Meridian Labs",
